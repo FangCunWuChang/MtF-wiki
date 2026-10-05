@@ -1,5 +1,6 @@
 ---
 title: 住院手术费用
+weight: 1000
 ---
 
 {{< notice info "提示" >}}

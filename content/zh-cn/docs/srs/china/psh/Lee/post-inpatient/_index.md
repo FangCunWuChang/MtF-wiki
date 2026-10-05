@@ -1,5 +1,6 @@
 ---
 title: 【院后】出院后诸项事宜
+weight: 300
 ---
 
 {{< notice info "提示" >}}

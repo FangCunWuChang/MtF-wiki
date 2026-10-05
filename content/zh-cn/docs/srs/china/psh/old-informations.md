@@ -1,5 +1,6 @@
 ---
 title: 可能过时的信息
+weight: 1000
 ---
 
 {{< notice warning "注意事项" >}}

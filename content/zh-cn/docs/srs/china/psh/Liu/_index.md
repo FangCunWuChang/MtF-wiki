@@ -1,5 +1,6 @@
 ---
 title: 刘立强等专家团队
+weight: 200
 ---
 
 {{< doctor-image src="doctor.webp" >}}

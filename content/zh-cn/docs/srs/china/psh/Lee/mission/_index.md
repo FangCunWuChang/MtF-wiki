@@ -1,5 +1,6 @@
 ---
 title: 医院给的宣教文件
+weight: 2000
 ---
 
 {{< notice info "提示" >}}

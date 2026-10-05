@@ -1,5 +1,6 @@
 ---
 title: 【院前】入院前准备
+weight: 100
 ---
 
 {{< notice info "提示" >}}
