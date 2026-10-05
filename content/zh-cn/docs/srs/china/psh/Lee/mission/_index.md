@@ -4,7 +4,7 @@ weight: 2000
 ---
 
 {{< notice info "提示" >}}
-数据来自于[星眠子](https://x.com/hoshinemu123)（twitter: @hoshinemu123），可能会随实际情况变动。
+数据来自于单名接受手术者，会随实际情况而变动。
 {{< /notice >}}
 
 - [入院须知](入院须知.pdf)

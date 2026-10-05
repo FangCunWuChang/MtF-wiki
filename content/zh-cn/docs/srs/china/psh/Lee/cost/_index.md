@@ -4,18 +4,18 @@ weight: 1000
 ---
 
 {{< notice info "提示" >}}
-数据来自于[星眠子](https://x.com/hoshinemu123)（twitter: @hoshinemu123），会随实际情况变动。
+数据来自于单名接受手术者，会随实际情况而变动。
 {{< /notice >}}
 
-**入院挂号+入院检查+备品+住院费用合计108238.26元。**  
+**入院挂号+入院检查+备品+住院费用合计108238.26元。**
 
 ## 入院当日挂号
 
-李峰永挂号费80元。  
+李峰永挂号费80元。
 
 ## 入院检查
 
-入院检查共计2419.9元。  
+入院检查共计2419.9元。
 
 - 血凝六项
 - 激素六项
@@ -29,37 +29,45 @@ weight: 1000
 
 {{< expand "入院检查费用明细" >}}
 
-![入院检查费用1](admission-examination-1.png)   
-![入院检查费用2](admission-examination-2.png)  
+![入院检查费用1](admission-examination-1.png)
+
+![入院检查费用2](admission-examination-2.png)
 
 {{< /expand >}}
 
 ## 入院时要求的备品
 
-备品费共计480元。  
+备品费共计480元。
 
 - **丁字带**：360元
 - **女性便盆+护理垫**：120元
 
 ## 住院花费
 
-住院押金12万元整，实际花费105258.36元。  
+住院押金12万元整，实际花费105258.36元。
 
 {{< expand "住院费用明细" >}}
 
-![住院费用1](surgery-1.jpg)   
-![住院费用2](surgery-2.jpg)   
-![住院费用3](surgery-3.jpg)   
-![住院费用4](surgery-4.jpg)   
+![住院费用1](surgery-1.jpg)
+
+![住院费用2](surgery-2.jpg)
+
+![住院费用3](surgery-3.jpg)
+
+![住院费用4](surgery-4.jpg)
 
 {{< /expand >}}
 
 {{< expand "住院费用明细（发票版）" >}}
 
-![住院明细费用1](surgery-list-1.png)   
-![住院明细费用2](surgery-list-2.png)   
-![住院明细费用3](surgery-list-3.png)   
-![住院明细费用4](surgery-list-4.png)   
-![住院明细费用5](surgery-list-5.png)   
+![住院明细费用1](surgery-list-1.png)
+
+![住院明细费用2](surgery-list-2.png)
+
+![住院明细费用3](surgery-list-3.png)
+
+![住院明细费用4](surgery-list-4.png)
+
+![住院明细费用5](surgery-list-5.png)
 
 {{< /expand >}}
